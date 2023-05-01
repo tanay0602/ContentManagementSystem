@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ContentManagementSystemApplication<ContentManagementSystem>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.Tanay.ContentManagementSystem.ContentManagementSystemApplication",
+            "projectName": "ContentManagementSystem",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}

@@ -1,0 +1,1 @@
+~~(Illegal character in path at index 101: file:/C:/Users/tanay/.m2/repository/org/springframework/boot/spring-boot-starter-data-mongodb/2.6.14/" title="2.6.14/spring-boot-starter-data-mongodb-2.6.14/" title="2.6.14.pom)~~>Rewrite encountered an uncaught recipe error in org.openrewrite.maven.UpgradeDependencyVersion.

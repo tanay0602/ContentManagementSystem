@@ -1,0 +1,72 @@
+{
+  "User_Projects": [
+    {
+      "_id": {
+        "$oid": "644aba201030cbe4e5cd3597"
+      },
+      "PROJ_ID": "adb062tan",
+      "PROJ_NAME": "Tanay's CMS",
+      "PERMISSIONS": [
+        "Tanay Mishra",
+        "Mr. Gopikrishnan"
+      ],
+      "URL": "https://www.tanayCMS.com",
+      "PAGE_TITLES": [
+        "Dashboard",
+        "About Us",
+        "Services",
+        "Projects",
+        "Posts",
+        "User Account"
+      ],
+      "DESIGN_THEMES": [
+        "Corporate",
+        "Minimalist"
+      ],
+      "COLORS": [
+        "Green",
+        "Blue",
+        "Purple"
+      ],
+      "FONTS": [
+        "Arial",
+        "Impact"
+      ],
+      "PAGE_COUNT": 6,
+      "DATE_CREATED": "2023-04-27T23:40:00Z"
+    },
+    {
+      "_id": {
+        "$oid": "644c1561c13206777eefed6a"
+      },
+      "PROJ_ID": "jkl012rst",
+      "PROJ_NAME": "Project W",
+      "PERMISSIONS": [
+        "John Doe",
+        "Jane Smith"
+      ],
+      "URL": "https://www.projectw.com",
+      "PAGE_TITLES": [
+        "Home",
+        "About Us",
+        "Services",
+        "Portfolio",
+        "Contact"
+      ],
+      "DESIGN_THEMES": [
+        "Corporate"
+      ],
+      "COLORS": [
+        "Red",
+        "Green",
+        "Purple"
+      ],
+      "FONTS": [
+        "Arial",
+        "Times New Roman"
+      ],
+      "PAGE_COUNT": 15,
+      "DATE_CREATED": "2023-04-27T16:20:00Z"
+    }
+  ]
+}
